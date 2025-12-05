@@ -1,0 +1,15 @@
+# Exclude sensitive and unnecessary files
+
+# Encrypted seed
+encrypted_seed.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
